@@ -1,0 +1,15 @@
+
+
+h1 {
+  font-family: 'angel_rosedemo';
+font-size: 100px;
+color: #FFFAFA;
+text-align: center;
+text-shadow: 4px 3px 0px #7A7A7A /*change this shadow color once color pallette is made*/;
+border: 8px solid pink;
+height: 80px;
+padding: 20px;
+padding-bottom: 25px;
+ }
+
+/*body {color: red; background-color: blue;}*/
